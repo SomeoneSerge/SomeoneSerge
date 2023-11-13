@@ -1,8 +1,6 @@
-Moi-moi! Minun nimeni on Sergei
-
 - Current occupations:
   - I'm currently conducting doctoral research in "computer vision" and "inverse graphics" at CS, Aalto University.
-  - I contribute to the [CUDA](https://nixos.org/community/teams/cuda) infrastructure in
+  - I contribute to the [CUDA](https://nixos.org/community/teams/cuda) and scientific computing support in
     [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/).
   - Other affiliations include [Spheroid Earth](http://www.spheroiduniverse.io).
   
